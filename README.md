@@ -1,1 +1,1 @@
-# diymacropad
+# DIY Macropad for blender
